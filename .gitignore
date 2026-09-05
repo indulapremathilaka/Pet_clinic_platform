@@ -9,3 +9,4 @@ coverage/
 .vscode/
 backend/generated/
 frontend/dist/
+frontend/tsconfig.tsbuildinfo
